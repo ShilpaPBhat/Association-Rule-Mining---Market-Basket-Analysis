@@ -4,32 +4,4 @@ The Apriori algorithm generates association rules. An association rule says that
 
 What do my customer buy? What did they buy together? These are the common question or analysis to be made. These analysis revel what people buy together and then can be used to create appropriate promotions or placements of the product in the store.
 
-### Applications of Market basket Analysis
-  - Cross Selling
-  - Product Placement
-  - Customer Behavior
-  - Fraud Detection etc.
-
-## Table of contents
-* [About](#about)
-* [Data Description](#data-description)
-* [Code Sample](#code-sample)
-
-## About
-
-The goal here was to understand apriori algorithm.
-
-## Data Description
-
-The dataset used can be found [here]()
-
-
-## Code Sample
-Few snippet from the notebook:
-
-````
-# 
-
-
-````
-Complete analysis can be found [here]()
+The dataset used and complete analysis can be found [here]()
