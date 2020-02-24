@@ -9,3 +9,27 @@ What do my customer buy? What did they buy together? These are the common questi
   - Product Placement
   - Customer Behavior
   - Fraud Detection etc.
+
+## Table of contents
+* [About](#about)
+* [Data Description](#data-description)
+* [Code Sample](#code-sample)
+
+## About
+
+The goal here was to understand apriori algorithm.
+
+## Data Description
+
+The dataset used can be found [here]()
+
+
+## Code Sample
+Few snippet from the notebook:
+
+````
+# 
+
+
+````
+Complete analysis can be found [here]()
